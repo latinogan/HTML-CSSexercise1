@@ -1,9 +1,10 @@
-# addind links in a unordered list
+# HTML AND CSS Course
 
 > This is a exercise to improve my skills
 
 ## Built With
 - HTML
+-CSS
 
 ## Live Demo (if available)
 
