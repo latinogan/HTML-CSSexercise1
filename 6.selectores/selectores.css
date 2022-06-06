@@ -1,0 +1,15 @@
+.btn  {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    color:yellow;
+    height:500px
+    
+}
+.btn button {
+    background-color:red;
+}
+.btn button:hover {
+    background-color:green;
+    color:#ffffff;
+}
