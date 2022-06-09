@@ -1,0 +1,32 @@
+.padre {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: aqua;
+}
+.cuadrado {
+    background-color: yellow;
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cuadrado:hover {
+    background-color: aquamarine;
+    transition: 0.4s;
+
+}
+.btn-modern {
+    width: 70px;
+    height: 40px;
+}
+.btn-modern:hover {
+    background-color: rgb(11, 29, 193);
+    color: #ffffff;
+    transition: 0.4s;
+    transform: translatey(-5px);
+    box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 5px 5px 15px 5px rgba(0,0,0,0);;
+    
+}
