@@ -1,8 +1,11 @@
+* {
+ margin: 0;
+}
 .padre {
     display:flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    min-height: 100vh;
     background-color: aqua;
 }
 .cuadrado {
@@ -19,8 +22,9 @@
 
 }
 .btn-modern {
-    width: 70px;
-    height: 40px;
+    width: 90px;
+    height: 70px;
+    border-radius: 5px;
 }
 .btn-modern:hover {
     background-color: rgb(11, 29, 193);
