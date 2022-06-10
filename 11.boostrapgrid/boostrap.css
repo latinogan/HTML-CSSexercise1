@@ -1,0 +1,15 @@
+.row div {
+    margin: 0.25rem;
+}
+.col-sm {
+    background-color: royalblue;
+}
+.col-md {
+    background-color: yellow;
+}
+.col-lg {
+    background-color: paleturquoise;
+}
+.col-xl {
+    background-color: greenyellow;
+}
