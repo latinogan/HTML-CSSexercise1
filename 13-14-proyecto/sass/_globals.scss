@@ -7,7 +7,7 @@
     padding:3rem;
 }
 html {
-    min-width: 100vw;
+    min-width: 100%;
 }
 body {
     margin: 0;
@@ -107,6 +107,7 @@ body {
     .benefit-cards {
         width:100%;
         padding: 0 2rem 2rem 2rem;
+        margin: 0;
     }
 }
 .sec-kpis {
@@ -172,7 +173,6 @@ body {
     align-items:center;
     margin:20px;
     .intro-rr {
-        
         .final-p {
             font-weight:bold;
             border: 2px solid rgb(41, 10, 165);
